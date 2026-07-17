@@ -31,10 +31,6 @@ The platform provides an organized environment for managing courses, attendance,
 
 User Authentication → Course Management → Attendance Tracking → Assignment Submission → Performance Monitoring
 
-## Screenshots
-
-(Add screenshots of your dashboard, login page, teacher panel, student panel)
-
 ## Installation
 
 Clone the repository:
